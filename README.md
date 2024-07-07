@@ -14,8 +14,5 @@
 
 <a href="https://github.com/matias-crypto/ChestyBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=ChestyBot&theme=algolia&locale=es)</a>
 
-### ANIMACIÓN DE SERPIENTE 🐍
-
-![snake gif](https://github.com/matias-crypto/matias-crypto/blob/output/github-contribution-grid-snake.svg)
 
 > Powered By MoonLight Team

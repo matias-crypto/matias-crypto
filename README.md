@@ -1,6 +1,6 @@
 ## MI PERFIL DE USUARIO 
 
-<a href="https://github.com/matias-crypto"><img src="https://cardivo.vercel.app/api?name=OfcDiego&description=Hola+Soy+Matías+Crypto.+Creador+de+LuffyBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ofc._.diego&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/matias-crypto"><img src="https://cardivo.vercel.app/api?name=Mi perfil &description=Hola+Soy+Matías+Crypto.+Creador+de+LuffyBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=matias._.crypto&whatsapp=Matías_Crypto&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 
 <!--

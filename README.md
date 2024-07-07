@@ -12,8 +12,10 @@
 
 <a href="https://github.com/matias-crypto/Frases-librery">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=Frases-librery&theme=algolia&locale=es)</a>
 
+<a href="https://github.com/matias-crypto/ChestyBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=ChestyBot&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/matias-crypto/ChestyBot
-">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=ChestyBot&theme=algolia&locale=es)</a>
+### ANIMACIÓN DE SERPIENTE 🐍
 
-> Powered By MoonLight Team 
+![snake gif](https://github.com/matias-crypto/matias-crypto/blob/output/github-contribution-grid-snake.svg)
+
+> Powered By MoonLight Team

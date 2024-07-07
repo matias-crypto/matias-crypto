@@ -12,10 +12,4 @@
 
 <a href="https://github.com/matias-crypto/Frases-librery">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=Frases-librery&theme=algolia&locale=es)</a>
 
-### COLABORACIONES ✨️
-
-<a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
-
-<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
+> Powered By MoonLight Team 

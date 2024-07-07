@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-crypto&theme=algolia&locale=es)](https://github.com/matias-crypto)
 ![counter](https://komarev.com/ghpvc/?username=matias-crypto&style=flat-square&theme=algolia&locale=es)
 
-### MIS PROYECTOS 💭
+### MIS PROYECTOS FAVORITOS 💭
 
 <a href="https://github.com/matias-crypto/Frases-librery">![github card](https://github-readme-stats.vercel.app/api/pin/?username=matias-crypto&repo=Frases-librery&theme=algolia&locale=es)</a>
 
